@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+env/
+venv/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# React build
+frontend/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
